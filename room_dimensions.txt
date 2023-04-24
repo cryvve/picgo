@@ -1,0 +1,6 @@
+Length: 2.94 m
+Width: 5.49 m
+Height: 3.64 m
+Surface area: 20.89 m^2
+Floor area: 1.43 m^2
+Volume: 3.76 m^3
